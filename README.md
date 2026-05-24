@@ -1,1 +1,1 @@
-# ai-fashion-ecommerce-platformm
+# ai-fashion-ecommerce-platform
